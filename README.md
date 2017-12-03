@@ -13,3 +13,8 @@ More lisp solutions for leecode will be continually updated.
    solution => kth.el </br>
    usage => (kthSmallest '(10 (5 nil  nil) (20 nil nil)) 2), you get 10
    
+3. Serialize and Deserialize Binary Tree </br>
+   question => https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/ </br>
+   solution => serial-deserial.el </br>
+   usage => (serial '(1 nil (2 nil (3)))), you get (1 nil 2 nil 3 nil nil) </br>
+   usage => (deserial '(1 nil 2 nil 3 nil nil)), you get (1 nil (2 nil (3)))
