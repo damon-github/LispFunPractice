@@ -9,7 +9,7 @@ More lisp solutions for leecode will be continually updated.
    solution => MaxRectangle.el </br>
    usage => (maxRectangle '("1011" "1111"))
 2. Kth Smallest Element in a BST </br>
-   question => https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/
+   question => https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/ </br>
    solution => kth.el </br>
    usage => (kthSmallest '(10 (5 nil  nil) (20 nil nil)) 2), you get 10
    
