@@ -18,3 +18,8 @@ More lisp solutions for leecode will be continually updated.
    solution => serial-deserial.el </br>
    usage => (serial '(1 nil (2 nil (3)))), you get (1 nil 2 nil 3 nil nil) </br>
    usage => (deserial '(1 nil 2 nil 3 nil nil)), you get (1 nil (2 nil (3)))
+
+4. Median of Two Sorted Arrays </br>
+   question => https://leetcode.com/problems/median-of-two-sorted-arrays/description/ </br>
+   solution => findMedianSortedArrays.el </br>
+   usage => (findMedianSortedArrays '(1 2 3 4 5) '(3 4)), you get 3
