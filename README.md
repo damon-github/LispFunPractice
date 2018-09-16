@@ -8,6 +8,7 @@ More lisp solutions for leecode will be continually updated.
    question => https://leetcode.com/problems/maximal-rectangle/description/ </br>
    solution => MaxRectangle.el </br>
    usage => (maxRectangle '("1011" "1111"))
+   
 2. Kth Smallest Element in a BST </br>
    question => https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/ </br>
    solution => kth.el </br>
@@ -23,3 +24,9 @@ More lisp solutions for leecode will be continually updated.
    question => https://leetcode.com/problems/median-of-two-sorted-arrays/description/ </br>
    solution => findMedianSortedArrays.el </br>
    usage => (findMedianSortedArrays '(1 2 3 4 5) '(3 4)), you get 3
+
+
+5. Maximum Subarray </br>
+   question => https://leetcode.com/problems/maximum-subarray/description/
+   solution => MaxSubarray.el </br>
+   usage => (MaxSubarry '(-2 1 -3 4 -1 2 1 -5 4)), you get 6
