@@ -27,11 +27,11 @@ More lisp solutions for leecode will be continually updated.
 
 
 5. Maximum Subarray </br>
-   question => https://leetcode.com/problems/maximum-subarray/description/
+   question => https://leetcode.com/problems/maximum-subarray/description/ </br>
    solution => MaxSubarray.el </br>
    usage => (MaxSubarry '(-2 1 -3 4 -1 2 1 -5 4)), you get 6
    
 6. Sequence Reconstruction </br>
-   question => https://leetcode.com/problems/sequence-reconstruction/
+   question => https://leetcode.com/problems/sequence-reconstruction/ </br>
    solution => sequenceReconstruction.el </br>
    usage => (sequenceReconstruction '(4 1 5 2 6 3) '((5 2 6 3)  (4 1 5 2))), you get t
